@@ -1,2 +1,2 @@
-# Consumindo uma API
+# Bootcamp Santander – Consumindo uma API
 Prática de consumo de APIs utilizando o método fetch.
